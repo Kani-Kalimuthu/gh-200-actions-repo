@@ -22,7 +22,7 @@ jobs:
 
       - name: Generate ASCII Artwork
         run: |
-          figlet "Fluxnova"
+          figlet "Kani Kalimuthu"
           echo "---------------------"
           figlet -f digital "GITHUB ACTIONS"
           echo "---------------------"
